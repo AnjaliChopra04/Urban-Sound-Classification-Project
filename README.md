@@ -18,6 +18,10 @@ us to identify features for classification. It will try to convert the audio int
 
 * MFCC does nothing but extracting patterns based on the frequency and time characterstics. This will uniquely able to identify that particular audio signal like in which class it actually belongs to because this audio signal will be later used in  deep learning Techniques.
 
+#### Conclusion
+
+* The Testing Accuracy comes out to be: 78.82%
+
 
 ### Technology Used
 
